@@ -77,12 +77,6 @@ st.markdown("""
 # Sistema de Recomendación de Destinos Turísticos
 """)
 
-# Mostrar la imagen con manejo de errores
-try:
-    st.image("travel_illustration.jpg", use_container_width=True)  # Cambiado de use_column_width a use_container_width
-except Exception as e:
-    st.warning(f"No se pudo cargar la imagen 'travel_illustration.jpg'. Error: {e}. Asegúrate de que la imagen esté en el directorio correcto y sea un formato válido (como .jpg o .png).")
-
 # Estilo visual personalizado (tema oscuro)
 st.markdown("""
 <style>
