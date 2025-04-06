@@ -5,6 +5,7 @@ from sklearn.preprocessing import MinMaxScaler
 import numpy as np
 import json
 import Rule as rl
+import os
 
 class BaseConocimiento:
     def __init__(self, travel_data):
@@ -19,7 +20,10 @@ class BaseConocimiento:
         print("Base de conocimientos inicializada.")
 
     def load_rules(self):
-       with open("ProyectoStreamlit/rules.json", "r") as f:
+        # Construir la ruta absoluta al archivo rules.json
+        script_dir = os.path.dirname(os.path.abspath(__file__))
+        rules_path = os.path.join(script_dir, "rules.json")
+        with open(rules_path, "r") as f:
             rules_config = json.load(f)["rules"]
         rules = []
         for rule in rules_config:
@@ -34,15 +38,19 @@ class BaseConocimiento:
         return rules
 
     def calcular_similitud(self, presupuesto, duracion_min, duracion_max, mes, tipo_hospedaje=None):
-        user_input = [presupuesto, (duracion_min + duracion_max) / 2, mes]
+        # Convertir user_input a un DataFrame con los mismos nombres de columnas que se usaron en fit
+        user_input_df = pd.DataFrame(
+            [[presupuesto, (duracion_min + duracion_max) / 2, mes]],
+            columns=["Total cost", "Duration (days)", "Month"]
+        )
+        user_input_scaled = self.scaler.transform(user_input_df)
         results = []
         for rule in self.rules:
             if isinstance(rule, rl.CosineSimilarityRule):
-                result = rule.apply(user_input, self.travel_data)
+                result = rule.apply(user_input_scaled[0], self.travel_data)  # Pasamos el array escalado
                 results.append(result)
             elif isinstance(rule, rl.ThresholdRule):
-                result = rule.apply(presupuesto, self.travel_data)  # Solo usamos el presupuesto para threshold
-                # Si el resultado es un escalar, lo convertimos en un array de la misma longitud
+                result = rule.apply(presupuesto, self.travel_data)
                 if np.isscalar(result):
                     result = np.full(len(self.travel_data), result)
                 results.append(result)
@@ -52,10 +60,8 @@ class BaseConocimiento:
                     result = np.full(len(self.travel_data), result)
                 results.append(result)
             else:
-                # Si la regla no se aplica, devolvemos un array de ceros
                 results.append(np.zeros(len(self.travel_data)))
         
-        # Asegurarnos de que todos los elementos en results tengan la misma forma
         results = [np.array(r) for r in results]
         return np.mean(results, axis=0)
 
@@ -63,7 +69,6 @@ class BaseConocimiento:
         self.travel_data["Similarity"] = self.calcular_similitud(presupuesto, duracion_min, duracion_max, mes, tipo_hospedaje)
         destinos_filtrados = self.travel_data.copy()
 
-        # Filtro por presupuesto
         destinos_filtrados = destinos_filtrados[destinos_filtrados["Total cost"] <= presupuesto]
         if tipo_hospedaje:
             destinos_filtrados = destinos_filtrados[destinos_filtrados["Accommodation type"] == tipo_hospedaje]
