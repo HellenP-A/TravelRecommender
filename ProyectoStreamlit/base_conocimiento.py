@@ -19,7 +19,7 @@ class BaseConocimiento:
         print("Base de conocimientos inicializada.")
 
     def load_rules(self):
-        with open("rules.json", "r") as f:
+       with open("ProyectoStreamlit/rules.json", "r") as f:
             rules_config = json.load(f)["rules"]
         rules = []
         for rule in rules_config:
