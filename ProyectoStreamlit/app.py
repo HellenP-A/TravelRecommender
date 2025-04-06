@@ -77,11 +77,11 @@ st.markdown("""
 # Sistema de Recomendación de Destinos Turísticos
 """)
 
-# Mostrar la imagen (si ya la tienes integrada)
-# try:
-#     st.image("travel_illustration.jpg", use_column_width=True)
-# except FileNotFoundError:
-#     st.warning("La imagen 'travel_illustration.jpg' no se encontró. Asegúrate de cargarla en el contenedor.")
+# Mostrar la imagen con manejo de errores
+try:
+    st.image("travel_illustration.jpg", use_container_width=True)  # Cambiado de use_column_width a use_container_width
+except Exception as e:
+    st.warning(f"No se pudo cargar la imagen 'travel_illustration.jpg'. Error: {e}. Asegúrate de que la imagen esté en el directorio correcto y sea un formato válido (como .jpg o .png).")
 
 # Estilo visual personalizado (tema oscuro)
 st.markdown("""
@@ -187,4 +187,26 @@ st.markdown("""
 ---
 **© 2025 Hellen Aguilar Noguera, José Leonardo Araya Parajeles, Fernando Rojas Meléndez, Alejandro Villalobos Hernández**  
 Desarrollado para el curso de Sistemas Basados en Conocimientos, Universidad CENFOTEC.
+""", unsafe_allow_html=True)
+
+# Traducir las opciones del menú a español
+st.markdown("""
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+    setTimeout(() => {
+        const menuItems = document.querySelectorAll('[data-testid="stSidebarNav"] ~ * [role="menu"] [role="menuitem"]');
+        menuItems.forEach(item => {
+            if (item.textContent.includes("Get help")) {
+                item.textContent = item.textContent.replace("Get help", "Obtener ayuda");
+            }
+            if (item.textContent.includes("Report a bug")) {
+                item.textContent = item.textContent.replace("Report a bug", "Reportar un error");
+            }
+            if (item.textContent.includes("About")) {
+                item.textContent = item.textContent.replace("About", "Acerca de");
+            }
+        });
+    }, 1000);
+});
+</script>
 """, unsafe_allow_html=True)
