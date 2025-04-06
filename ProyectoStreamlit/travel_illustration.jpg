@@ -1,0 +1,10 @@
+#!/bin/bash
+
+# Script to open the provided Shutterstock image URL in the default browser
+URL=https://www.shutterstock.com/image-vector/airplane-flying-above-earth-around-260nw-2096089237.jpg
+
+# Open the URL in the host's default browser
+"$BROWSER" "$URL"
+
+# Download the image to the container
+curl -o /root/ProyectoStreamlit/travel_illustration.jpg "$URL"
