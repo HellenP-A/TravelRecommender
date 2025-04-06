@@ -19,7 +19,7 @@ st.set_page_config(
 )
 
 # Cargar dataset
-travel_data = pd.read_csv("cleaned_travel_dataset.csv")
+travel_data = pd.read_csv("ProyectoStreamlit/cleaned_travel_dataset.csv")
 
 # Inicializar sistema
 base_conocimiento = BaseConocimiento(travel_data)
