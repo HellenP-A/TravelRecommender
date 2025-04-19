@@ -1,0 +1,961 @@
+case,run,time_s
+Escenario hotel barato,1,0.004502058029174805
+Escenario hotel barato,2,0.001560211181640625
+Escenario hotel barato,3,0.001500844955444336
+Escenario hotel barato,4,0.0014750957489013672
+Escenario hotel barato,5,0.001416921615600586
+Escenario hotel barato,6,0.0013968944549560547
+Escenario hotel barato,7,0.0013949871063232422
+Escenario hotel barato,8,0.0013759136199951172
+Escenario hotel barato,9,0.0014071464538574219
+Escenario hotel barato,10,0.001416921615600586
+Escenario hotel barato,11,0.0014069080352783203
+Escenario hotel barato,12,0.001377105712890625
+Escenario hotel barato,13,0.0013701915740966797
+Escenario hotel barato,14,0.0013697147369384766
+Escenario hotel barato,15,0.001383066177368164
+Escenario hotel barato,16,0.0014181137084960938
+Escenario hotel barato,17,0.0013697147369384766
+Escenario hotel barato,18,0.0013723373413085938
+Escenario hotel barato,19,0.0013837814331054688
+Escenario hotel barato,20,0.0013849735260009766
+Escenario hotel barato,21,0.0013670921325683594
+Escenario hotel barato,22,0.0014221668243408203
+Escenario hotel barato,23,0.0013918876647949219
+Escenario hotel barato,24,0.001363992691040039
+Escenario hotel barato,25,0.0013592243194580078
+Escenario hotel barato,26,0.001355886459350586
+Escenario hotel barato,27,0.0013880729675292969
+Escenario hotel barato,28,0.0014328956604003906
+Escenario hotel barato,29,0.0014488697052001953
+Escenario hotel barato,30,0.0014491081237792969
+Viaje largo en resort,1,0.0014638900756835938
+Viaje largo en resort,2,0.00397801399230957
+Viaje largo en resort,3,0.003251314163208008
+Viaje largo en resort,4,0.0021622180938720703
+Viaje largo en resort,5,0.0019497871398925781
+Viaje largo en resort,6,0.0027740001678466797
+Viaje largo en resort,7,0.004274129867553711
+Viaje largo en resort,8,0.002785921096801758
+Viaje largo en resort,9,0.004415988922119141
+Viaje largo en resort,10,0.004632711410522461
+Viaje largo en resort,11,0.004942893981933594
+Viaje largo en resort,12,0.0036728382110595703
+Viaje largo en resort,13,0.002473115921020508
+Viaje largo en resort,14,0.0024628639221191406
+Viaje largo en resort,15,0.0024547576904296875
+Viaje largo en resort,16,0.002788066864013672
+Viaje largo en resort,17,0.0020956993103027344
+Viaje largo en resort,18,0.001567840576171875
+Viaje largo en resort,19,0.001508951187133789
+Viaje largo en resort,20,0.0014867782592773438
+Viaje largo en resort,21,0.0025720596313476562
+Viaje largo en resort,22,0.00400996208190918
+Viaje largo en resort,23,0.001958131790161133
+Viaje largo en resort,24,0.0016181468963623047
+Viaje largo en resort,25,0.0017249584197998047
+Viaje largo en resort,26,0.0015048980712890625
+Viaje largo en resort,27,0.001466989517211914
+Viaje largo en resort,28,0.0014688968658447266
+Viaje largo en resort,29,0.0014650821685791016
+Viaje largo en resort,30,0.0014541149139404297
+Escapada sin hospedaje,1,0.0011811256408691406
+Escapada sin hospedaje,2,0.0011692047119140625
+Escapada sin hospedaje,3,0.0011889934539794922
+Escapada sin hospedaje,4,0.0012021064758300781
+Escapada sin hospedaje,5,0.001210927963256836
+Escapada sin hospedaje,6,0.0012249946594238281
+Escapada sin hospedaje,7,0.001238107681274414
+Escapada sin hospedaje,8,0.0017290115356445312
+Escapada sin hospedaje,9,0.0022292137145996094
+Escapada sin hospedaje,10,0.0016016960144042969
+Escapada sin hospedaje,11,0.002569913864135742
+Escapada sin hospedaje,12,0.001287221908569336
+Escapada sin hospedaje,13,0.0014369487762451172
+Escapada sin hospedaje,14,0.001386880874633789
+Escapada sin hospedaje,15,0.001560211181640625
+Escapada sin hospedaje,16,0.0013458728790283203
+Escapada sin hospedaje,17,0.0012810230255126953
+Escapada sin hospedaje,18,0.0013270378112792969
+Escapada sin hospedaje,19,0.0012710094451904297
+Escapada sin hospedaje,20,0.0012459754943847656
+Escapada sin hospedaje,21,0.0012316703796386719
+Escapada sin hospedaje,22,0.0012278556823730469
+Escapada sin hospedaje,23,0.001222848892211914
+Escapada sin hospedaje,24,0.0012233257293701172
+Escapada sin hospedaje,25,0.0012166500091552734
+Escapada sin hospedaje,26,0.001209259033203125
+Escapada sin hospedaje,27,0.0012090206146240234
+Escapada sin hospedaje,28,0.0012121200561523438
+Escapada sin hospedaje,29,0.001210927963256836
+Escapada sin hospedaje,30,0.0012159347534179688
+Fin de semana en Airbnb barato,1,0.0014221668243408203
+Fin de semana en Airbnb barato,2,0.0012836456298828125
+Fin de semana en Airbnb barato,3,0.0012688636779785156
+Fin de semana en Airbnb barato,4,0.0012612342834472656
+Fin de semana en Airbnb barato,5,0.0012578964233398438
+Fin de semana en Airbnb barato,6,0.0012640953063964844
+Fin de semana en Airbnb barato,7,0.0012569427490234375
+Fin de semana en Airbnb barato,8,0.00125885009765625
+Fin de semana en Airbnb barato,9,0.001257181167602539
+Fin de semana en Airbnb barato,10,0.0012547969818115234
+Fin de semana en Airbnb barato,11,0.0012371540069580078
+Fin de semana en Airbnb barato,12,0.0012359619140625
+Fin de semana en Airbnb barato,13,0.0012319087982177734
+Fin de semana en Airbnb barato,14,0.001209259033203125
+Fin de semana en Airbnb barato,15,0.0012938976287841797
+Fin de semana en Airbnb barato,16,0.0014410018920898438
+Fin de semana en Airbnb barato,17,0.001316070556640625
+Fin de semana en Airbnb barato,18,0.0012929439544677734
+Fin de semana en Airbnb barato,19,0.0013070106506347656
+Fin de semana en Airbnb barato,20,0.0012967586517333984
+Fin de semana en Airbnb barato,21,0.0024902820587158203
+Fin de semana en Airbnb barato,22,0.0018529891967773438
+Fin de semana en Airbnb barato,23,0.0013859272003173828
+Fin de semana en Airbnb barato,24,0.0014467239379882812
+Fin de semana en Airbnb barato,25,0.0012767314910888672
+Fin de semana en Airbnb barato,26,0.0012421607971191406
+Fin de semana en Airbnb barato,27,0.0012438297271728516
+Fin de semana en Airbnb barato,28,0.001249074935913086
+Fin de semana en Airbnb barato,29,0.0012259483337402344
+Fin de semana en Airbnb barato,30,0.0012249946594238281
+Vacaciones en Villa lujosa,1,0.0014040470123291016
+Vacaciones en Villa lujosa,2,0.001444101333618164
+Vacaciones en Villa lujosa,3,0.0014410018920898438
+Vacaciones en Villa lujosa,4,0.0014529228210449219
+Vacaciones en Villa lujosa,5,0.0015697479248046875
+Vacaciones en Villa lujosa,6,0.0015132427215576172
+Vacaciones en Villa lujosa,7,0.0014598369598388672
+Vacaciones en Villa lujosa,8,0.0015900135040283203
+Vacaciones en Villa lujosa,9,0.0014810562133789062
+Vacaciones en Villa lujosa,10,0.0015900135040283203
+Vacaciones en Villa lujosa,11,0.0015201568603515625
+Vacaciones en Villa lujosa,12,0.0024518966674804688
+Vacaciones en Villa lujosa,13,0.005159854888916016
+Vacaciones en Villa lujosa,14,0.0028848648071289062
+Vacaciones en Villa lujosa,15,0.0015001296997070312
+Vacaciones en Villa lujosa,16,0.0016918182373046875
+Vacaciones en Villa lujosa,17,0.0015799999237060547
+Vacaciones en Villa lujosa,18,0.0014719963073730469
+Vacaciones en Villa lujosa,19,0.0017910003662109375
+Vacaciones en Villa lujosa,20,0.0014820098876953125
+Vacaciones en Villa lujosa,21,0.0016889572143554688
+Vacaciones en Villa lujosa,22,0.0016901493072509766
+Vacaciones en Villa lujosa,23,0.0017600059509277344
+Vacaciones en Villa lujosa,24,0.0015559196472167969
+Vacaciones en Villa lujosa,25,0.0014688968658447266
+Vacaciones en Villa lujosa,26,0.0017271041870117188
+Vacaciones en Villa lujosa,27,0.0015249252319335938
+Vacaciones en Villa lujosa,28,0.0015769004821777344
+Vacaciones en Villa lujosa,29,0.0014090538024902344
+Vacaciones en Villa lujosa,30,0.0014388561248779297
+Semana estándar en hotel,1,0.0015709400177001953
+Semana estándar en hotel,2,0.0015158653259277344
+Semana estándar en hotel,3,0.0015420913696289062
+Semana estándar en hotel,4,0.0015959739685058594
+Semana estándar en hotel,5,0.0014910697937011719
+Semana estándar en hotel,6,0.0014429092407226562
+Semana estándar en hotel,7,0.0015130043029785156
+Semana estándar en hotel,8,0.0017910003662109375
+Semana estándar en hotel,9,0.0017778873443603516
+Semana estándar en hotel,10,0.0028870105743408203
+Semana estándar en hotel,11,0.0041310787200927734
+Semana estándar en hotel,12,0.0026178359985351562
+Semana estándar en hotel,13,0.0015430450439453125
+Semana estándar en hotel,14,0.0016236305236816406
+Semana estándar en hotel,15,0.0014562606811523438
+Semana estándar en hotel,16,0.0014858245849609375
+Semana estándar en hotel,17,0.0014810562133789062
+Semana estándar en hotel,18,0.0014541149139404297
+Semana estándar en hotel,19,0.0015048980712890625
+Semana estándar en hotel,20,0.0014677047729492188
+Semana estándar en hotel,21,0.0014960765838623047
+Semana estándar en hotel,22,0.0016608238220214844
+Semana estándar en hotel,23,0.001458883285522461
+Semana estándar en hotel,24,0.0015478134155273438
+Semana estándar en hotel,25,0.0015239715576171875
+Semana estándar en hotel,26,0.0015149116516113281
+Semana estándar en hotel,27,0.0015969276428222656
+Semana estándar en hotel,28,0.0014798641204833984
+Semana estándar en hotel,29,0.0015811920166015625
+Semana estándar en hotel,30,0.0016589164733886719
+Escapada otoñal sin filtro,1,0.0012121200561523438
+Escapada otoñal sin filtro,2,0.0015621185302734375
+Escapada otoñal sin filtro,3,0.003142833709716797
+Escapada otoñal sin filtro,4,0.0030548572540283203
+Escapada otoñal sin filtro,5,0.001995086669921875
+Escapada otoñal sin filtro,6,0.001363992691040039
+Escapada otoñal sin filtro,7,0.0012478828430175781
+Escapada otoñal sin filtro,8,0.0012412071228027344
+Escapada otoñal sin filtro,9,0.001216888427734375
+Escapada otoñal sin filtro,10,0.001859903335571289
+Escapada otoñal sin filtro,11,0.0013561248779296875
+Escapada otoñal sin filtro,12,0.001249074935913086
+Escapada otoñal sin filtro,13,0.001222848892211914
+Escapada otoñal sin filtro,14,0.001219034194946289
+Escapada otoñal sin filtro,15,0.0012097358703613281
+Escapada otoñal sin filtro,16,0.0011649131774902344
+Escapada otoñal sin filtro,17,0.0011920928955078125
+Escapada otoñal sin filtro,18,0.0012040138244628906
+Escapada otoñal sin filtro,19,0.001817941665649414
+Escapada otoñal sin filtro,20,0.0012118816375732422
+Escapada otoñal sin filtro,21,0.001216888427734375
+Escapada otoñal sin filtro,22,0.0011708736419677734
+Escapada otoñal sin filtro,23,0.0011630058288574219
+Escapada otoñal sin filtro,24,0.001178741455078125
+Escapada otoñal sin filtro,25,0.0011932849884033203
+Escapada otoñal sin filtro,26,0.0011622905731201172
+Escapada otoñal sin filtro,27,0.0022101402282714844
+Escapada otoñal sin filtro,28,0.0012459754943847656
+Escapada otoñal sin filtro,29,0.0011630058288574219
+Escapada otoñal sin filtro,30,0.0011591911315917969
+Viaje familiar en resort,1,0.0013980865478515625
+Viaje familiar en resort,2,0.0013799667358398438
+Viaje familiar en resort,3,0.0013949871063232422
+Viaje familiar en resort,4,0.0017981529235839844
+Viaje familiar en resort,5,0.0016090869903564453
+Viaje familiar en resort,6,0.0014119148254394531
+Viaje familiar en resort,7,0.0014150142669677734
+Viaje familiar en resort,8,0.0014231204986572266
+Viaje familiar en resort,9,0.00140380859375
+Viaje familiar en resort,10,0.0014009475708007812
+Viaje familiar en resort,11,0.0014028549194335938
+Viaje familiar en resort,12,0.0013892650604248047
+Viaje familiar en resort,13,0.001756906509399414
+Viaje familiar en resort,14,0.001528024673461914
+Viaje familiar en resort,15,0.0014147758483886719
+Viaje familiar en resort,16,0.0014090538024902344
+Viaje familiar en resort,17,0.0014040470123291016
+Viaje familiar en resort,18,0.0013921260833740234
+Viaje familiar en resort,19,0.0013697147369384766
+Viaje familiar en resort,20,0.0021209716796875
+Viaje familiar en resort,21,0.0014531612396240234
+Viaje familiar en resort,22,0.0013837814331054688
+Viaje familiar en resort,23,0.001560211181640625
+Viaje familiar en resort,24,0.0015301704406738281
+Viaje familiar en resort,25,0.0014450550079345703
+Viaje familiar en resort,26,0.002368927001953125
+Viaje familiar en resort,27,0.00226593017578125
+Viaje familiar en resort,28,0.0017631053924560547
+Viaje familiar en resort,29,0.0030100345611572266
+Viaje familiar en resort,30,0.001653909683227539
+Escapada febrero low‑cost,1,0.0012650489807128906
+Escapada febrero low‑cost,2,0.0012140274047851562
+Escapada febrero low‑cost,3,0.0012040138244628906
+Escapada febrero low‑cost,4,0.0014410018920898438
+Escapada febrero low‑cost,5,0.0012209415435791016
+Escapada febrero low‑cost,6,0.0012030601501464844
+Escapada febrero low‑cost,7,0.001194000244140625
+Escapada febrero low‑cost,8,0.0011913776397705078
+Escapada febrero low‑cost,9,0.0011570453643798828
+Escapada febrero low‑cost,10,0.001191854476928711
+Escapada febrero low‑cost,11,0.0011849403381347656
+Escapada febrero low‑cost,12,0.0011830329895019531
+Escapada febrero low‑cost,13,0.0011782646179199219
+Escapada febrero low‑cost,14,0.0011818408966064453
+Escapada febrero low‑cost,15,0.0014619827270507812
+Escapada febrero low‑cost,16,0.0012140274047851562
+Escapada febrero low‑cost,17,0.001171112060546875
+Escapada febrero low‑cost,18,0.0012629032135009766
+Escapada febrero low‑cost,19,0.001165151596069336
+Escapada febrero low‑cost,20,0.0011560916900634766
+Escapada febrero low‑cost,21,0.0011589527130126953
+Escapada febrero low‑cost,22,0.0012149810791015625
+Escapada febrero low‑cost,23,0.0011708736419677734
+Escapada febrero low‑cost,24,0.0011320114135742188
+Escapada febrero low‑cost,25,0.0011930465698242188
+Escapada febrero low‑cost,26,0.0011479854583740234
+Escapada febrero low‑cost,27,0.001149892807006836
+Escapada febrero low‑cost,28,0.0015022754669189453
+Escapada febrero low‑cost,29,0.0014109611511230469
+Escapada febrero low‑cost,30,0.0012359619140625
+Vacaciones de invierno en hotel,1,0.0014948844909667969
+Vacaciones de invierno en hotel,2,0.001561880111694336
+Vacaciones de invierno en hotel,3,0.0013799667358398438
+Vacaciones de invierno en hotel,4,0.0015549659729003906
+Vacaciones de invierno en hotel,5,0.0014650821685791016
+Vacaciones de invierno en hotel,6,0.00140380859375
+Vacaciones de invierno en hotel,7,0.0015609264373779297
+Vacaciones de invierno en hotel,8,0.0014040470123291016
+Vacaciones de invierno en hotel,9,0.0013990402221679688
+Vacaciones de invierno en hotel,10,0.0014290809631347656
+Vacaciones de invierno en hotel,11,0.0014028549194335938
+Vacaciones de invierno en hotel,12,0.0013990402221679688
+Vacaciones de invierno en hotel,13,0.0013818740844726562
+Vacaciones de invierno en hotel,14,0.0043561458587646484
+Vacaciones de invierno en hotel,15,0.001718759536743164
+Vacaciones de invierno en hotel,16,0.0015180110931396484
+Vacaciones de invierno en hotel,17,0.0014190673828125
+Vacaciones de invierno en hotel,18,0.0013949871063232422
+Vacaciones de invierno en hotel,19,0.0014140605926513672
+Vacaciones de invierno en hotel,20,0.0014081001281738281
+Vacaciones de invierno en hotel,21,0.0013620853424072266
+Vacaciones de invierno en hotel,22,0.0013518333435058594
+Vacaciones de invierno en hotel,23,0.00133514404296875
+Vacaciones de invierno en hotel,24,0.001405954360961914
+Vacaciones de invierno en hotel,25,0.0013890266418457031
+Vacaciones de invierno en hotel,26,0.001363992691040039
+Vacaciones de invierno en hotel,27,0.0015549659729003906
+Vacaciones de invierno en hotel,28,0.0014560222625732422
+Vacaciones de invierno en hotel,29,0.0013759136199951172
+Vacaciones de invierno en hotel,30,0.0015130043029785156
+Viaje de trabajo en Airbnb,1,0.0013837814331054688
+Viaje de trabajo en Airbnb,2,0.0013742446899414062
+Viaje de trabajo en Airbnb,3,0.001531839370727539
+Viaje de trabajo en Airbnb,4,0.0013267993927001953
+Viaje de trabajo en Airbnb,5,0.0013260841369628906
+Viaje de trabajo en Airbnb,6,0.0014710426330566406
+Viaje de trabajo en Airbnb,7,0.0013382434844970703
+Viaje de trabajo en Airbnb,8,0.0014259815216064453
+Viaje de trabajo en Airbnb,9,0.0013508796691894531
+Viaje de trabajo en Airbnb,10,0.0013899803161621094
+Viaje de trabajo en Airbnb,11,0.0013561248779296875
+Viaje de trabajo en Airbnb,12,0.001413106918334961
+Viaje de trabajo en Airbnb,13,0.0013208389282226562
+Viaje de trabajo en Airbnb,14,0.001397848129272461
+Viaje de trabajo en Airbnb,15,0.0015087127685546875
+Viaje de trabajo en Airbnb,16,0.0014002323150634766
+Viaje de trabajo en Airbnb,17,0.0014469623565673828
+Viaje de trabajo en Airbnb,18,0.0013580322265625
+Viaje de trabajo en Airbnb,19,0.0013120174407958984
+Viaje de trabajo en Airbnb,20,0.001444101333618164
+Viaje de trabajo en Airbnb,21,0.0012807846069335938
+Viaje de trabajo en Airbnb,22,0.0012898445129394531
+Viaje de trabajo en Airbnb,23,0.0014331340789794922
+Viaje de trabajo en Airbnb,24,0.0013079643249511719
+Viaje de trabajo en Airbnb,25,0.001371145248413086
+Viaje de trabajo en Airbnb,26,0.0014069080352783203
+Viaje de trabajo en Airbnb,27,0.0013277530670166016
+Viaje de trabajo en Airbnb,28,0.0013680458068847656
+Viaje de trabajo en Airbnb,29,0.0013260841369628906
+Viaje de trabajo en Airbnb,30,0.0013508796691894531
+Retiro de fin de año en Villa,1,0.0012979507446289062
+Retiro de fin de año en Villa,2,0.0013172626495361328
+Retiro de fin de año en Villa,3,0.0012989044189453125
+Retiro de fin de año en Villa,4,0.0013148784637451172
+Retiro de fin de año en Villa,5,0.0013170242309570312
+Retiro de fin de año en Villa,6,0.0012979507446289062
+Retiro de fin de año en Villa,7,0.0013370513916015625
+Retiro de fin de año en Villa,8,0.0013241767883300781
+Retiro de fin de año en Villa,9,0.0013089179992675781
+Retiro de fin de año en Villa,10,0.0012960433959960938
+Retiro de fin de año en Villa,11,0.0012938976287841797
+Retiro de fin de año en Villa,12,0.0013108253479003906
+Retiro de fin de año en Villa,13,0.0012938976287841797
+Retiro de fin de año en Villa,14,0.0013010501861572266
+Retiro de fin de año en Villa,15,0.0013589859008789062
+Retiro de fin de año en Villa,16,0.0013108253479003906
+Retiro de fin de año en Villa,17,0.0013132095336914062
+Retiro de fin de año en Villa,18,0.0013461112976074219
+Retiro de fin de año en Villa,19,0.0013110637664794922
+Retiro de fin de año en Villa,20,0.0012767314910888672
+Retiro de fin de año en Villa,21,0.0014300346374511719
+Retiro de fin de año en Villa,22,0.0013937950134277344
+Retiro de fin de año en Villa,23,0.0013272762298583984
+Retiro de fin de año en Villa,24,0.001302957534790039
+Retiro de fin de año en Villa,25,0.0012989044189453125
+Retiro de fin de año en Villa,26,0.0013020038604736328
+Retiro de fin de año en Villa,27,0.0012998580932617188
+Retiro de fin de año en Villa,28,0.0013229846954345703
+Retiro de fin de año en Villa,29,0.0013728141784667969
+Retiro de fin de año en Villa,30,0.0013310909271240234
+Lujo en villa verano,1,0.0013089179992675781
+Lujo en villa verano,2,0.0013098716735839844
+Lujo en villa verano,3,0.0013060569763183594
+Lujo en villa verano,4,0.0013048648834228516
+Lujo en villa verano,5,0.0013501644134521484
+Lujo en villa verano,6,0.0013179779052734375
+Lujo en villa verano,7,0.0013039112091064453
+Lujo en villa verano,8,0.0013036727905273438
+Lujo en villa verano,9,0.0013141632080078125
+Lujo en villa verano,10,0.0012881755828857422
+Lujo en villa verano,11,0.0013036727905273438
+Lujo en villa verano,12,0.0012862682342529297
+Lujo en villa verano,13,0.0012819766998291016
+Lujo en villa verano,14,0.0013132095336914062
+Lujo en villa verano,15,0.0013020038604736328
+Lujo en villa verano,16,0.0013339519500732422
+Lujo en villa verano,17,0.001306295394897461
+Lujo en villa verano,18,0.0013098716735839844
+Lujo en villa verano,19,0.0012958049774169922
+Lujo en villa verano,20,0.0012979507446289062
+Lujo en villa verano,21,0.0013439655303955078
+Lujo en villa verano,22,0.001300811767578125
+Lujo en villa verano,23,0.0013051033020019531
+Lujo en villa verano,24,0.0012958049774169922
+Lujo en villa verano,25,0.001302957534790039
+Lujo en villa verano,26,0.0013010501861572266
+Lujo en villa verano,27,0.0012962818145751953
+Lujo en villa verano,28,0.0013346672058105469
+Lujo en villa verano,29,0.0012972354888916016
+Lujo en villa verano,30,0.0012989044189453125
+Vacaciones familiares Airbnb,1,0.0013518333435058594
+Vacaciones familiares Airbnb,2,0.0013251304626464844
+Vacaciones familiares Airbnb,3,0.0013251304626464844
+Vacaciones familiares Airbnb,4,0.0013158321380615234
+Vacaciones familiares Airbnb,5,0.0013530254364013672
+Vacaciones familiares Airbnb,6,0.0013051033020019531
+Vacaciones familiares Airbnb,7,0.0013358592987060547
+Vacaciones familiares Airbnb,8,0.0013499259948730469
+Vacaciones familiares Airbnb,9,0.0013799667358398438
+Vacaciones familiares Airbnb,10,0.0013468265533447266
+Vacaciones familiares Airbnb,11,0.0014081001281738281
+Vacaciones familiares Airbnb,12,0.0014421939849853516
+Vacaciones familiares Airbnb,13,0.0013110637664794922
+Vacaciones familiares Airbnb,14,0.001361846923828125
+Vacaciones familiares Airbnb,15,0.0013501644134521484
+Vacaciones familiares Airbnb,16,0.0013358592987060547
+Vacaciones familiares Airbnb,17,0.0013260841369628906
+Vacaciones familiares Airbnb,18,0.0016129016876220703
+Vacaciones familiares Airbnb,19,0.0013499259948730469
+Vacaciones familiares Airbnb,20,0.0013279914855957031
+Vacaciones familiares Airbnb,21,0.0014338493347167969
+Vacaciones familiares Airbnb,22,0.0013141632080078125
+Vacaciones familiares Airbnb,23,0.001322031021118164
+Vacaciones familiares Airbnb,24,0.0014159679412841797
+Vacaciones familiares Airbnb,25,0.0013360977172851562
+Vacaciones familiares Airbnb,26,0.001405954360961914
+Vacaciones familiares Airbnb,27,0.0013620853424072266
+Vacaciones familiares Airbnb,28,0.0013360977172851562
+Vacaciones familiares Airbnb,29,0.0013990402221679688
+Vacaciones familiares Airbnb,30,0.0015308856964111328
+Escapada rápida en octubre,1,0.0011320114135742188
+Escapada rápida en octubre,2,0.001171112060546875
+Escapada rápida en octubre,3,0.001188039779663086
+Escapada rápida en octubre,4,0.001123189926147461
+Escapada rápida en octubre,5,0.0010700225830078125
+Escapada rápida en octubre,6,0.001238107681274414
+Escapada rápida en octubre,7,0.0012087821960449219
+Escapada rápida en octubre,8,0.0011150836944580078
+Escapada rápida en octubre,9,0.0011227130889892578
+Escapada rápida en octubre,10,0.0011739730834960938
+Escapada rápida en octubre,11,0.0011000633239746094
+Escapada rápida en octubre,12,0.001077890396118164
+Escapada rápida en octubre,13,0.0011620521545410156
+Escapada rápida en octubre,14,0.0011279582977294922
+Escapada rápida en octubre,15,0.0010869503021240234
+Escapada rápida en octubre,16,0.0012218952178955078
+Escapada rápida en octubre,17,0.0011501312255859375
+Escapada rápida en octubre,18,0.0011477470397949219
+Escapada rápida en octubre,19,0.0010938644409179688
+Escapada rápida en octubre,20,0.001168966293334961
+Escapada rápida en octubre,21,0.001207113265991211
+Escapada rápida en octubre,22,0.0011012554168701172
+Escapada rápida en octubre,23,0.0010628700256347656
+Escapada rápida en octubre,24,0.0012180805206298828
+Escapada rápida en octubre,25,0.0010979175567626953
+Escapada rápida en octubre,26,0.0011391639709472656
+Escapada rápida en octubre,27,0.0012199878692626953
+Escapada rápida en octubre,28,0.0011060237884521484
+Escapada rápida en octubre,29,0.0011379718780517578
+Escapada rápida en octubre,30,0.0011470317840576172
+Viaje cultural en invierno,1,0.0014028549194335938
+Viaje cultural en invierno,2,0.001360177993774414
+Viaje cultural en invierno,3,0.0013360977172851562
+Viaje cultural en invierno,4,0.0014340877532958984
+Viaje cultural en invierno,5,0.00138092041015625
+Viaje cultural en invierno,6,0.0013320446014404297
+Viaje cultural en invierno,7,0.0015311241149902344
+Viaje cultural en invierno,8,0.0013680458068847656
+Viaje cultural en invierno,9,0.0014019012451171875
+Viaje cultural en invierno,10,0.0014231204986572266
+Viaje cultural en invierno,11,0.001336812973022461
+Viaje cultural en invierno,12,0.0013570785522460938
+Viaje cultural en invierno,13,0.0013589859008789062
+Viaje cultural en invierno,14,0.0013439655303955078
+Viaje cultural en invierno,15,0.0014040470123291016
+Viaje cultural en invierno,16,0.0013709068298339844
+Viaje cultural en invierno,17,0.0013628005981445312
+Viaje cultural en invierno,18,0.001374959945678711
+Viaje cultural en invierno,19,0.0013370513916015625
+Viaje cultural en invierno,20,0.001313924789428711
+Viaje cultural en invierno,21,0.001425027847290039
+Viaje cultural en invierno,22,0.0013458728790283203
+Viaje cultural en invierno,23,0.0013480186462402344
+Viaje cultural en invierno,24,0.0013959407806396484
+Viaje cultural en invierno,25,0.0012938976287841797
+Viaje cultural en invierno,26,0.001318216323852539
+Viaje cultural en invierno,27,0.0014090538024902344
+Viaje cultural en invierno,28,0.0013098716735839844
+Viaje cultural en invierno,29,0.0015108585357666016
+Viaje cultural en invierno,30,0.0013070106506347656
+Retiro ecológico primavera,1,0.0013191699981689453
+Retiro ecológico primavera,2,0.0013120174407958984
+Retiro ecológico primavera,3,0.0013113021850585938
+Retiro ecológico primavera,4,0.0013048648834228516
+Retiro ecológico primavera,5,0.0013308525085449219
+Retiro ecológico primavera,6,0.0013413429260253906
+Retiro ecológico primavera,7,0.0013539791107177734
+Retiro ecológico primavera,8,0.0013377666473388672
+Retiro ecológico primavera,9,0.0013241767883300781
+Retiro ecológico primavera,10,0.0013251304626464844
+Retiro ecológico primavera,11,0.0013048648834228516
+Retiro ecológico primavera,12,0.0013260841369628906
+Retiro ecológico primavera,13,0.0013051033020019531
+Retiro ecológico primavera,14,0.0013298988342285156
+Retiro ecológico primavera,15,0.0013320446014404297
+Retiro ecológico primavera,16,0.0013151168823242188
+Retiro ecológico primavera,17,0.0013430118560791016
+Retiro ecológico primavera,18,0.001325845718383789
+Retiro ecológico primavera,19,0.0013060569763183594
+Retiro ecológico primavera,20,0.0013489723205566406
+Retiro ecológico primavera,21,0.0013439655303955078
+Retiro ecológico primavera,22,0.0013833045959472656
+Retiro ecológico primavera,23,0.0013439655303955078
+Retiro ecológico primavera,24,0.0013289451599121094
+Retiro ecológico primavera,25,0.0013077259063720703
+Retiro ecológico primavera,26,0.0012869834899902344
+Retiro ecológico primavera,27,0.0013461112976074219
+Retiro ecológico primavera,28,0.0012972354888916016
+Retiro ecológico primavera,29,0.0013167858123779297
+Retiro ecológico primavera,30,0.0013208389282226562
+Fin de semana exprés,1,0.0012211799621582031
+Fin de semana exprés,2,0.001194000244140625
+Fin de semana exprés,3,0.0011849403381347656
+Fin de semana exprés,4,0.0011930465698242188
+Fin de semana exprés,5,0.0011949539184570312
+Fin de semana exprés,6,0.0011599063873291016
+Fin de semana exprés,7,0.0011658668518066406
+Fin de semana exprés,8,0.0011820793151855469
+Fin de semana exprés,9,0.0011811256408691406
+Fin de semana exprés,10,0.0011718273162841797
+Fin de semana exprés,11,0.001171112060546875
+Fin de semana exprés,12,0.001196146011352539
+Fin de semana exprés,13,0.001157999038696289
+Fin de semana exprés,14,0.0011589527130126953
+Fin de semana exprés,15,0.0011789798736572266
+Fin de semana exprés,16,0.0011587142944335938
+Fin de semana exprés,17,0.0011677742004394531
+Fin de semana exprés,18,0.0011472702026367188
+Fin de semana exprés,19,0.0011708736419677734
+Fin de semana exprés,20,0.0011661052703857422
+Fin de semana exprés,21,0.0011878013610839844
+Fin de semana exprés,22,0.001177072525024414
+Fin de semana exprés,23,0.0011768341064453125
+Fin de semana exprés,24,0.0011761188507080078
+Fin de semana exprés,25,0.0011699199676513672
+Fin de semana exprés,26,0.0012731552124023438
+Fin de semana exprés,27,0.0012829303741455078
+Fin de semana exprés,28,0.001271963119506836
+Fin de semana exprés,29,0.0011820793151855469
+Fin de semana exprés,30,0.001171112060546875
+Estudio de idiomas otoño,1,0.0013117790222167969
+Estudio de idiomas otoño,2,0.0013222694396972656
+Estudio de idiomas otoño,3,0.0013020038604736328
+Estudio de idiomas otoño,4,0.0012993812561035156
+Estudio de idiomas otoño,5,0.0013158321380615234
+Estudio de idiomas otoño,6,0.0012869834899902344
+Estudio de idiomas otoño,7,0.001291036605834961
+Estudio de idiomas otoño,8,0.0012862682342529297
+Estudio de idiomas otoño,9,0.0012848377227783203
+Estudio de idiomas otoño,10,0.0012869834899902344
+Estudio de idiomas otoño,11,0.0012860298156738281
+Estudio de idiomas otoño,12,0.0012738704681396484
+Estudio de idiomas otoño,13,0.0013010501861572266
+Estudio de idiomas otoño,14,0.0012891292572021484
+Estudio de idiomas otoño,15,0.0012950897216796875
+Estudio de idiomas otoño,16,0.0013239383697509766
+Estudio de idiomas otoño,17,0.0013828277587890625
+Estudio de idiomas otoño,18,0.0013451576232910156
+Estudio de idiomas otoño,19,0.0013580322265625
+Estudio de idiomas otoño,20,0.0016870498657226562
+Estudio de idiomas otoño,21,0.0014100074768066406
+Estudio de idiomas otoño,22,0.0013551712036132812
+Estudio de idiomas otoño,23,0.0014030933380126953
+Estudio de idiomas otoño,24,0.0013551712036132812
+Estudio de idiomas otoño,25,0.001293182373046875
+Estudio de idiomas otoño,26,0.0014109611511230469
+Estudio de idiomas otoño,27,0.0013027191162109375
+Estudio de idiomas otoño,28,0.001360177993774414
+Estudio de idiomas otoño,29,0.001386880874633789
+Estudio de idiomas otoño,30,0.0013251304626464844
+Crucero caribeño,1,0.0012710094451904297
+Crucero caribeño,2,0.0013840198516845703
+Crucero caribeño,3,0.0012972354888916016
+Crucero caribeño,4,0.0013170242309570312
+Crucero caribeño,5,0.0014908313751220703
+Crucero caribeño,6,0.0013628005981445312
+Crucero caribeño,7,0.00127410888671875
+Crucero caribeño,8,0.001401662826538086
+Crucero caribeño,9,0.0012860298156738281
+Crucero caribeño,10,0.001277923583984375
+Crucero caribeño,11,0.0013692378997802734
+Crucero caribeño,12,0.0013229846954345703
+Crucero caribeño,13,0.001373291015625
+Crucero caribeño,14,0.0013036727905273438
+Crucero caribeño,15,0.0012750625610351562
+Crucero caribeño,16,0.001293182373046875
+Crucero caribeño,17,0.0014090538024902344
+Crucero caribeño,18,0.0013048648834228516
+Crucero caribeño,19,0.0013811588287353516
+Crucero caribeño,20,0.0014820098876953125
+Crucero caribeño,21,0.0013089179992675781
+Crucero caribeño,22,0.0013089179992675781
+Crucero caribeño,23,0.0014388561248779297
+Crucero caribeño,24,0.001317739486694336
+Crucero caribeño,25,0.0013959407806396484
+Crucero caribeño,26,0.0012891292572021484
+Crucero caribeño,27,0.0012853145599365234
+Crucero caribeño,28,0.0013768672943115234
+Crucero caribeño,29,0.0013267993927001953
+Crucero caribeño,30,0.0012950897216796875
+Aventura mochilero,1,0.0011467933654785156
+Aventura mochilero,2,0.001172780990600586
+Aventura mochilero,3,0.0011019706726074219
+Aventura mochilero,4,0.0010950565338134766
+Aventura mochilero,5,0.001127004623413086
+Aventura mochilero,6,0.0013501644134521484
+Aventura mochilero,7,0.0011439323425292969
+Aventura mochilero,8,0.0011441707611083984
+Aventura mochilero,9,0.0011892318725585938
+Aventura mochilero,10,0.0010581016540527344
+Aventura mochilero,11,0.0010809898376464844
+Aventura mochilero,12,0.0011749267578125
+Aventura mochilero,13,0.001119852066040039
+Aventura mochilero,14,0.001096963882446289
+Aventura mochilero,15,0.001191854476928711
+Aventura mochilero,16,0.0012240409851074219
+Aventura mochilero,17,0.0010838508605957031
+Aventura mochilero,18,0.0010631084442138672
+Aventura mochilero,19,0.0011458396911621094
+Aventura mochilero,20,0.0011518001556396484
+Aventura mochilero,21,0.0010919570922851562
+Aventura mochilero,22,0.0010631084442138672
+Aventura mochilero,23,0.0012919902801513672
+Aventura mochilero,24,0.0011668205261230469
+Aventura mochilero,25,0.0011332035064697266
+Aventura mochilero,26,0.0010988712310791016
+Aventura mochilero,27,0.0011949539184570312
+Aventura mochilero,28,0.0010869503021240234
+Aventura mochilero,29,0.0010709762573242188
+Aventura mochilero,30,0.0012140274047851562
+Vacaciones extremas,1,0.0014462471008300781
+Vacaciones extremas,2,0.0013020038604736328
+Vacaciones extremas,3,0.0013988018035888672
+Vacaciones extremas,4,0.0013723373413085938
+Vacaciones extremas,5,0.0012888908386230469
+Vacaciones extremas,6,0.0014019012451171875
+Vacaciones extremas,7,0.0013320446014404297
+Vacaciones extremas,8,0.0013871192932128906
+Vacaciones extremas,9,0.0013098716735839844
+Vacaciones extremas,10,0.0012881755828857422
+Vacaciones extremas,11,0.0013298988342285156
+Vacaciones extremas,12,0.0012938976287841797
+Vacaciones extremas,13,0.0013439655303955078
+Vacaciones extremas,14,0.001302957534790039
+Vacaciones extremas,15,0.0013060569763183594
+Vacaciones extremas,16,0.0013251304626464844
+Vacaciones extremas,17,0.0012981891632080078
+Vacaciones extremas,18,0.0014138221740722656
+Vacaciones extremas,19,0.0013382434844970703
+Vacaciones extremas,20,0.0012769699096679688
+Vacaciones extremas,21,0.0012879371643066406
+Vacaciones extremas,22,0.0013060569763183594
+Vacaciones extremas,23,0.0012729167938232422
+Vacaciones extremas,24,0.001293182373046875
+Vacaciones extremas,25,0.0013051033020019531
+Vacaciones extremas,26,0.0013229846954345703
+Vacaciones extremas,27,0.0013382434844970703
+Vacaciones extremas,28,0.0012898445129394531
+Vacaciones extremas,29,0.0012888908386230469
+Vacaciones extremas,30,0.0012891292572021484
+Vacaciones familiares en Airbnb,1,0.0013298988342285156
+Vacaciones familiares en Airbnb,2,0.0013360977172851562
+Vacaciones familiares en Airbnb,3,0.0013141632080078125
+Vacaciones familiares en Airbnb,4,0.0013496875762939453
+Vacaciones familiares en Airbnb,5,0.0012822151184082031
+Vacaciones familiares en Airbnb,6,0.0012958049774169922
+Vacaciones familiares en Airbnb,7,0.0012853145599365234
+Vacaciones familiares en Airbnb,8,0.0013628005981445312
+Vacaciones familiares en Airbnb,9,0.001397848129272461
+Vacaciones familiares en Airbnb,10,0.0013163089752197266
+Vacaciones familiares en Airbnb,11,0.0013229846954345703
+Vacaciones familiares en Airbnb,12,0.0012688636779785156
+Vacaciones familiares en Airbnb,13,0.0012683868408203125
+Vacaciones familiares en Airbnb,14,0.0012731552124023438
+Vacaciones familiares en Airbnb,15,0.0012819766998291016
+Vacaciones familiares en Airbnb,16,0.0012967586517333984
+Vacaciones familiares en Airbnb,17,0.0012679100036621094
+Vacaciones familiares en Airbnb,18,0.001293182373046875
+Vacaciones familiares en Airbnb,19,0.0012810230255126953
+Vacaciones familiares en Airbnb,20,0.001306772232055664
+Vacaciones familiares en Airbnb,21,0.0012612342834472656
+Vacaciones familiares en Airbnb,22,0.0013370513916015625
+Vacaciones familiares en Airbnb,23,0.0012938976287841797
+Vacaciones familiares en Airbnb,24,0.0012891292572021484
+Vacaciones familiares en Airbnb,25,0.0012929439544677734
+Vacaciones familiares en Airbnb,26,0.001329183578491211
+Vacaciones familiares en Airbnb,27,0.001280069351196289
+Vacaciones familiares en Airbnb,28,0.001275777816772461
+Vacaciones familiares en Airbnb,29,0.0013129711151123047
+Vacaciones familiares en Airbnb,30,0.0012822151184082031
+Escapada de fin de semana,1,0.0009679794311523438
+Escapada de fin de semana,2,0.0009472370147705078
+Escapada de fin de semana,3,0.0009582042694091797
+Escapada de fin de semana,4,0.0009608268737792969
+Escapada de fin de semana,5,0.0009679794311523438
+Escapada de fin de semana,6,0.0009429454803466797
+Escapada de fin de semana,7,0.0009541511535644531
+Escapada de fin de semana,8,0.0009570121765136719
+Escapada de fin de semana,9,0.0009729862213134766
+Escapada de fin de semana,10,0.0009500980377197266
+Escapada de fin de semana,11,0.0009620189666748047
+Escapada de fin de semana,12,0.0009579658508300781
+Escapada de fin de semana,13,0.0009548664093017578
+Escapada de fin de semana,14,0.0009310245513916016
+Escapada de fin de semana,15,0.00095367431640625
+Escapada de fin de semana,16,0.0009562969207763672
+Escapada de fin de semana,17,0.0009500980377197266
+Escapada de fin de semana,18,0.0009570121765136719
+Escapada de fin de semana,19,0.000949859619140625
+Escapada de fin de semana,20,0.0009548664093017578
+Escapada de fin de semana,21,0.000949859619140625
+Escapada de fin de semana,22,0.0009412765502929688
+Escapada de fin de semana,23,0.0009458065032958984
+Escapada de fin de semana,24,0.0009551048278808594
+Escapada de fin de semana,25,0.0009593963623046875
+Escapada de fin de semana,26,0.0009381771087646484
+Escapada de fin de semana,27,0.0010113716125488281
+Escapada de fin de semana,28,0.0009508132934570312
+Escapada de fin de semana,29,0.0009520053863525391
+Escapada de fin de semana,30,0.0009522438049316406
+Vacaciones de lujo en villa,1,0.0013020038604736328
+Vacaciones de lujo en villa,2,0.0012922286987304688
+Vacaciones de lujo en villa,3,0.0013020038604736328
+Vacaciones de lujo en villa,4,0.0013451576232910156
+Vacaciones de lujo en villa,5,0.001306772232055664
+Vacaciones de lujo en villa,6,0.0013260841369628906
+Vacaciones de lujo en villa,7,0.0013768672943115234
+Vacaciones de lujo en villa,8,0.00131988525390625
+Vacaciones de lujo en villa,9,0.0012879371643066406
+Vacaciones de lujo en villa,10,0.0014450550079345703
+Vacaciones de lujo en villa,11,0.0012998580932617188
+Vacaciones de lujo en villa,12,0.0012936592102050781
+Vacaciones de lujo en villa,13,0.0013680458068847656
+Vacaciones de lujo en villa,14,0.0013360977172851562
+Vacaciones de lujo en villa,15,0.0012309551239013672
+Vacaciones de lujo en villa,16,0.001291036605834961
+Vacaciones de lujo en villa,17,0.0013229846954345703
+Vacaciones de lujo en villa,18,0.0012600421905517578
+Vacaciones de lujo en villa,19,0.0013391971588134766
+Vacaciones de lujo en villa,20,0.0013260841369628906
+Vacaciones de lujo en villa,21,0.0012302398681640625
+Vacaciones de lujo en villa,22,0.001280069351196289
+Vacaciones de lujo en villa,23,0.0013778209686279297
+Vacaciones de lujo en villa,24,0.0012478828430175781
+Vacaciones de lujo en villa,25,0.0012631416320800781
+Vacaciones de lujo en villa,26,0.0013759136199951172
+Vacaciones de lujo en villa,27,0.001233816146850586
+Vacaciones de lujo en villa,28,0.0012722015380859375
+Vacaciones de lujo en villa,29,0.0013399124145507812
+Vacaciones de lujo en villa,30,0.00125885009765625
+Viaje de negocios estándar,1,0.0012788772583007812
+Viaje de negocios estándar,2,0.0013892650604248047
+Viaje de negocios estándar,3,0.0013709068298339844
+Viaje de negocios estándar,4,0.0012722015380859375
+Viaje de negocios estándar,5,0.0016019344329833984
+Viaje de negocios estándar,6,0.0013477802276611328
+Viaje de negocios estándar,7,0.0012860298156738281
+Viaje de negocios estándar,8,0.0013799667358398438
+Viaje de negocios estándar,9,0.0013318061828613281
+Viaje de negocios estándar,10,0.00128936767578125
+Viaje de negocios estándar,11,0.0014400482177734375
+Viaje de negocios estándar,12,0.0013120174407958984
+Viaje de negocios estándar,13,0.0013251304626464844
+Viaje de negocios estándar,14,0.0013680458068847656
+Viaje de negocios estándar,15,0.0013828277587890625
+Viaje de negocios estándar,16,0.0014111995697021484
+Viaje de negocios estándar,17,0.0013039112091064453
+Viaje de negocios estándar,18,0.0013489723205566406
+Viaje de negocios estándar,19,0.0012919902801513672
+Viaje de negocios estándar,20,0.001435995101928711
+Viaje de negocios estándar,21,0.0013642311096191406
+Viaje de negocios estándar,22,0.0013260841369628906
+Viaje de negocios estándar,23,0.001390218734741211
+Viaje de negocios estándar,24,0.0013208389282226562
+Viaje de negocios estándar,25,0.00131988525390625
+Viaje de negocios estándar,26,0.0015478134155273438
+Viaje de negocios estándar,27,0.0013709068298339844
+Viaje de negocios estándar,28,0.0013632774353027344
+Viaje de negocios estándar,29,0.0013608932495117188
+Viaje de negocios estándar,30,0.0013358592987060547
+Tour extendido sin filtro,1,0.0011310577392578125
+Tour extendido sin filtro,2,0.001299142837524414
+Tour extendido sin filtro,3,0.0011501312255859375
+Tour extendido sin filtro,4,0.001180887222290039
+Tour extendido sin filtro,5,0.001230001449584961
+Tour extendido sin filtro,6,0.0011317729949951172
+Tour extendido sin filtro,7,0.0011310577392578125
+Tour extendido sin filtro,8,0.0012462139129638672
+Tour extendido sin filtro,9,0.0010831356048583984
+Tour extendido sin filtro,10,0.0010848045349121094
+Tour extendido sin filtro,11,0.0011463165283203125
+Tour extendido sin filtro,12,0.0012049674987792969
+Tour extendido sin filtro,13,0.0010807514190673828
+Tour extendido sin filtro,14,0.0010859966278076172
+Tour extendido sin filtro,15,0.0011360645294189453
+Tour extendido sin filtro,16,0.0011959075927734375
+Tour extendido sin filtro,17,0.0010571479797363281
+Tour extendido sin filtro,18,0.001111745834350586
+Tour extendido sin filtro,19,0.0012578964233398438
+Tour extendido sin filtro,20,0.0011150836944580078
+Tour extendido sin filtro,21,0.001111745834350586
+Tour extendido sin filtro,22,0.0010972023010253906
+Tour extendido sin filtro,23,0.0012319087982177734
+Tour extendido sin filtro,24,0.0010809898376464844
+Tour extendido sin filtro,25,0.0011909008026123047
+Tour extendido sin filtro,26,0.0011210441589355469
+Tour extendido sin filtro,27,0.0010628700256347656
+Tour extendido sin filtro,28,0.0010879039764404297
+Tour extendido sin filtro,29,0.001123189926147461
+Tour extendido sin filtro,30,0.0011110305786132812
+Vacaciones económicas largas,1,0.0011780261993408203
+Vacaciones económicas largas,2,0.0011179447174072266
+Vacaciones económicas largas,3,0.0011010169982910156
+Vacaciones económicas largas,4,0.0010957717895507812
+Vacaciones económicas largas,5,0.0010950565338134766
+Vacaciones económicas largas,6,0.0010852813720703125
+Vacaciones económicas largas,7,0.0010962486267089844
+Vacaciones económicas largas,8,0.0010879039764404297
+Vacaciones económicas largas,9,0.0011181831359863281
+Vacaciones económicas largas,10,0.0010917186737060547
+Vacaciones económicas largas,11,0.0011289119720458984
+Vacaciones económicas largas,12,0.001077890396118164
+Vacaciones económicas largas,13,0.0010771751403808594
+Vacaciones económicas largas,14,0.0010721683502197266
+Vacaciones económicas largas,15,0.0010666847229003906
+Vacaciones económicas largas,16,0.0011000633239746094
+Vacaciones económicas largas,17,0.0010998249053955078
+Vacaciones económicas largas,18,0.001096963882446289
+Vacaciones económicas largas,19,0.0010819435119628906
+Vacaciones económicas largas,20,0.0010957717895507812
+Vacaciones económicas largas,21,0.001081228256225586
+Vacaciones económicas largas,22,0.0010807514190673828
+Vacaciones económicas largas,23,0.001085042953491211
+Vacaciones económicas largas,24,0.0010981559753417969
+Vacaciones económicas largas,25,0.0010881423950195312
+Vacaciones económicas largas,26,0.0012166500091552734
+Vacaciones económicas largas,27,0.0011410713195800781
+Vacaciones económicas largas,28,0.0010821819305419922
+Vacaciones económicas largas,29,0.001085042953491211
+Vacaciones económicas largas,30,0.0010528564453125
+Temporada alta en resort,1,0.0013129711151123047
+Temporada alta en resort,2,0.0013010501861572266
+Temporada alta en resort,3,0.001332998275756836
+Temporada alta en resort,4,0.001322031021118164
+Temporada alta en resort,5,0.0013208389282226562
+Temporada alta en resort,6,0.0013079643249511719
+Temporada alta en resort,7,0.0013191699981689453
+Temporada alta en resort,8,0.0013279914855957031
+Temporada alta en resort,9,0.0013349056243896484
+Temporada alta en resort,10,0.001302957534790039
+Temporada alta en resort,11,0.0013511180877685547
+Temporada alta en resort,12,0.00131988525390625
+Temporada alta en resort,13,0.0013089179992675781
+Temporada alta en resort,14,0.0013141632080078125
+Temporada alta en resort,15,0.0013020038604736328
+Temporada alta en resort,16,0.001352071762084961
+Temporada alta en resort,17,0.0013060569763183594
+Temporada alta en resort,18,0.001302957534790039
+Temporada alta en resort,19,0.0013277530670166016
+Temporada alta en resort,20,0.001280069351196289
+Temporada alta en resort,21,0.0013051033020019531
+Temporada alta en resort,22,0.0012888908386230469
+Temporada alta en resort,23,0.001280069351196289
+Temporada alta en resort,24,0.0013241767883300781
+Temporada alta en resort,25,0.0013077259063720703
+Temporada alta en resort,26,0.0013201236724853516
+Temporada alta en resort,27,0.0013091564178466797
+Temporada alta en resort,28,0.0013189315795898438
+Temporada alta en resort,29,0.0012960433959960938
+Temporada alta en resort,30,0.001322031021118164
+Escapada precio medio,1,0.0013241767883300781
+Escapada precio medio,2,0.0013349056243896484
+Escapada precio medio,3,0.0013041496276855469
+Escapada precio medio,4,0.0013239383697509766
+Escapada precio medio,5,0.0013289451599121094
+Escapada precio medio,6,0.001302957534790039
+Escapada precio medio,7,0.0012979507446289062
+Escapada precio medio,8,0.0013301372528076172
+Escapada precio medio,9,0.0013048648834228516
+Escapada precio medio,10,0.0013110637664794922
+Escapada precio medio,11,0.0012998580932617188
+Escapada precio medio,12,0.0013279914855957031
+Escapada precio medio,13,0.0013017654418945312
+Escapada precio medio,14,0.001306295394897461
+Escapada precio medio,15,0.001317739486694336
+Escapada precio medio,16,0.0012860298156738281
+Escapada precio medio,17,0.0012729167938232422
+Escapada precio medio,18,0.0013360977172851562
+Escapada precio medio,19,0.0013511180877685547
+Escapada precio medio,20,0.0013370513916015625
+Escapada precio medio,21,0.0013561248779296875
+Escapada precio medio,22,0.0013899803161621094
+Escapada precio medio,23,0.0013039112091064453
+Escapada precio medio,24,0.0013761520385742188
+Escapada precio medio,25,0.001332998275756836
+Escapada precio medio,26,0.0013039112091064453
+Escapada precio medio,27,0.0013051033020019531
+Escapada precio medio,28,0.0015120506286621094
+Escapada precio medio,29,0.0013828277587890625
+Escapada precio medio,30,0.0013780593872070312
+Primavera en hotel,1,0.0013880729675292969
+Primavera en hotel,2,0.0013036727905273438
+Primavera en hotel,3,0.0013489723205566406
+Primavera en hotel,4,0.0014600753784179688
+Primavera en hotel,5,0.0013308525085449219
+Primavera en hotel,6,0.0014829635620117188
+Primavera en hotel,7,0.0013170242309570312
+Primavera en hotel,8,0.0013270378112792969
+Primavera en hotel,9,0.0014209747314453125
+Primavera en hotel,10,0.0013058185577392578
+Primavera en hotel,11,0.0013272762298583984
+Primavera en hotel,12,0.0013556480407714844
+Primavera en hotel,13,0.0013632774353027344
+Primavera en hotel,14,0.0013358592987060547
+Primavera en hotel,15,0.001447916030883789
+Primavera en hotel,16,0.0013110637664794922
+Primavera en hotel,17,0.0013060569763183594
+Primavera en hotel,18,0.0015437602996826172
+Primavera en hotel,19,0.0013527870178222656
+Primavera en hotel,20,0.0013308525085449219
+Primavera en hotel,21,0.0013833045959472656
+Primavera en hotel,22,0.0013837814331054688
+Primavera en hotel,23,0.001306295394897461
+Primavera en hotel,24,0.001409769058227539
+Primavera en hotel,25,0.0012900829315185547
+Primavera en hotel,26,0.0012662410736083984
+Primavera en hotel,27,0.0013391971588134766
+Primavera en hotel,28,0.0013589859008789062
+Primavera en hotel,29,0.0012822151184082031
+Primavera en hotel,30,0.0015649795532226562
+Otoño en villa,1,0.0013501644134521484
+Otoño en villa,2,0.0013430118560791016
+Otoño en villa,3,0.0014417171478271484
+Otoño en villa,4,0.0013282299041748047
+Otoño en villa,5,0.0012998580932617188
+Otoño en villa,6,0.001394033432006836
+Otoño en villa,7,0.0012810230255126953
+Otoño en villa,8,0.001280069351196289
+Otoño en villa,9,0.0014798641204833984
+Otoño en villa,10,0.0013840198516845703
+Otoño en villa,11,0.0013401508331298828
+Otoño en villa,12,0.0013608932495117188
+Otoño en villa,13,0.001316070556640625
+Otoño en villa,14,0.0012791156768798828
+Otoño en villa,15,0.0013508796691894531
+Otoño en villa,16,0.00133514404296875
+Otoño en villa,17,0.0012998580932617188
+Otoño en villa,18,0.0014498233795166016
+Otoño en villa,19,0.001302957534790039
+Otoño en villa,20,0.0012907981872558594
+Otoño en villa,21,0.0014309883117675781
+Otoño en villa,22,0.0013530254364013672
+Otoño en villa,23,0.001332998275756836
+Otoño en villa,24,0.0014061927795410156
+Otoño en villa,25,0.001291036605834961
+Otoño en villa,26,0.0013189315795898438
+Otoño en villa,27,0.0013539791107177734
+Otoño en villa,28,0.0013020038604736328
+Otoño en villa,29,0.0013189315795898438
+Otoño en villa,30,0.0014100074768066406

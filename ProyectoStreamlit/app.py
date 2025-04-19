@@ -25,8 +25,6 @@ travel_data = None
 try:
     travel_data = pd.read_csv("cleaned_travel_dataset.csv")
 except FileNotFoundError:
-    # Si no se encuentra el archivo en la ruta actual, intenta cargarlo desde la carpeta ProyectoStreamlit
-    # (Asegúrate de que la ruta sea correcta)
     travel_data = pd.read_csv("ProyectoStreamlit/cleaned_travel_dataset.csv")
 
 # Inicializar sistema
