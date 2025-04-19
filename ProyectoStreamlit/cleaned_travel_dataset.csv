@@ -1,76 +1,102 @@
-Destination,Month,Duration (days),Traveler gender,Traveler nationality,Accommodation type,Accommodation cost,Transportation cost
-"London, UK",5.0,7.0,Male,American,Hotel,1200.0,600.0
-"Phuket, Thailand",6.0,5.0,Female,Canadian,Resort,800.0,500.0
-"Bali, Indonesia",7.0,7.0,Male,Korean,Villa,1000.0,700.0
-"New York, USA",8.0,14.0,Female,British,Hotel,2000.0,1000.0
-"Paris, France",10.0,5.0,Male,American,Hotel,1500.0,800.0
-"Sydney, Australia",11.0,10.0,Female,Australian,Hostel,500.0,1200.0
-"Rio de Janeiro, Brazil",1.0,7.0,Male,Brazilian,Airbnb,900.0,600.0
-"Dubai, United Arab Emirates",3.0,7.0,Male,Emirati,Resort,2500.0,800.0
-"Cancun, Mexico",4.0,7.0,Female,Mexican,Hotel,1000.0,500.0
-"Honolulu, Hawaii",6.0,8.0,Female,Chinese,Resort,3000.0,1200.0
-"Berlin, Germany",7.0,9.0,Male,German,Hotel,1400.0,700.0
-"Marrakech, Morocco",8.0,7.0,Female,Moroccan,Riad,600.0,400.0
-Paris,9.0,9.0,Female,American,Hotel,900.0,400.0
-Bali,8.0,10.0,Male,Chinese,Resort,1500.0,700.0
-Tokyo,10.0,10.0,Male,Japanese,Hotel,1200.0,800.0
-Sydney,12.0,7.0,Male,Australian,Hotel,1000.0,600.0
-Bangkok,9.0,8.0,Male,Indian,Hostel,400.0,500.0
-Hawaii,8.0,9.0,Male,Korean,Resort,2000.0,800.0
-Japan,5.0,8.0,Female,American,Hotel,800.0,500.0
-Greece,10.0,8.0,Male,American,Airbnb,400.0,600.0
-Mexico,1.0,10.0,Male,British,Airbnb,500.0,800.0
-"Paris, France",6.0,7.0,Female,American,Hotel,1400.0,600.0
-"Tokyo, Japan",12.0,8.0,Female,Chinese,Hostel,500.0,900.0
-"Cancun, Mexico",7.0,7.0,Male,American,Resort,2200.0,800.0
-"Rio de Janeiro, Brazil",11.0,7.0,Female,Brazilian,Hotel,1200.0,700.0
-"Barcelona, Spain",8.0,7.0,Female,Spanish,Hostel,600.0,600.0
-"New York City, USA",9.0,7.0,Male,American,Hotel,1500.0,500.0
-"Amsterdam, Netherlands",6.0,8.0,Female,Dutch,Hotel,1100.0,700.0
-"New York, USA",12.0,7.0,Female,Canadian,Hotel,1400.0,800.0
-Paris,7.0,6.0,Female,American,Hotel,1200.0,800.0
-Sydney,6.0,6.0,Male,Australian,Hotel,1500.0,1200.0
-Barcelona,8.0,7.0,Female,Spanish,Vacation rental,900.0,700.0
-Bali,2.0,7.0,Male,American,Resort,2200.0,1000.0
-New York,7.0,6.0,Male,American,Vacation rental,1000.0,800.0
-Bangkok,9.0,8.0,Female,Indian,Hostel,300.0,700.0
-Bali,5.0,8.0,Female,British,Resort,1800.0,1000.0
-"Bali, Indonesia",8.0,7.0,Female,South Korean,Resort,500.0,800.0
-"Cancun, Mexico",4.0,7.0,Female,Mexican,Resort,800.0,500.0
-"Paris, France",6.0,7.0,Male,British,Hotel,1200.0,700.0
-"Bali, Indonesia",11.0,7.0,Female,Taiwanese,Resort,600.0,700.0
-"Sydney, Aus",2.0,7.0,Male,Australian,Hotel,900.0,600.0
-"Bangkok, Thai",5.0,7.0,Female,Korean,Hotel,400.0,400.0
-"New York, USA",8.0,7.0,Male,American,Hotel,1500.0,1000.0
-"Phuket, Thai",1.0,7.0,Female,British,Resort,700.0,800.0
-Paris,6.0,6.0,Male,American,Hotel,800.0,500.0
-Bali,8.0,11.0,Female,Spanish,Resort,1200.0,700.0
-Sydney,9.0,9.0,Male,Australian,Hotel,900.0,600.0
-London,11.0,11.0,Male,British,Hostel,300.0,400.0
-Dubai,1.0,8.0,Female,Emirati,Hotel,1000.0,800.0
-Rome,3.0,11.0,Female,Italian,Hostel,200.0,350.0
-Paris,6.0,5.0,Male,USA,Hotel,500.0,800.0
-Sydney,11.0,9.0,Male,South Korea,Hostel,200.0,1200.0
-London,2.0,5.0,Female,UK,Hotel,600.0,700.0
-Rome,8.0,7.0,Female,Taiwan,Hotel,700.0,900.0
-Cape Town,1.0,8.0,Female,Spain,Airbnb,500.0,1500.0
-Bali,7.0,6.0,Female,South Korea,Villa,1200.0,1000.0
-Paris,5.0,5.0,Male,USA,Hotel,1000.0,800.0
-Bali,8.0,8.0,Female,Taiwan,Resort,1500.0,1200.0
-Sydney,7.0,9.0,Male,Canada,Hostel,300.0,900.0
-Phuket,9.0,7.0,Male,Singapore,Villa,2000.0,700.0
-Phnom Penh,9.0,5.0,Male,Cambodia,Hostel,200.0,500.0
-"Tokyo, Japan",2.0,9.0,Female,American,Hotel,1000.0,700.0
-"Sydney, Aus",5.0,11.0,Female,Chinese,Airbnb,800.0,1000.0
-"Bali, Indonesia",7.0,10.0,Female,Korean,Hostel,500.0,800.0
-"Cancun, Mexico",8.0,8.0,Male,American,Hotel,1300.0,600.0
-"Athens, Greece",9.0,10.0,Female,Korean,Airbnb,700.0,900.0
-"Tokyo, Japan",10.0,8.0,Male,Korean,Hotel,1200.0,700.0
-"Sydney, Aus",11.0,10.0,Female,Chinese,Airbnb,900.0,1000.0
-"Paris, France",12.0,8.0,Male,American,Hostel,400.0,700.0
-"Bali, Indonesia",2.0,8.0,Female,Canadian,Hotel,800.0,800.0
-"Paris, France",5.0,6.0,Male,American,Hotel,5000.0,2500.0
-"Sydney, Australia",6.0,6.0,Female,Australian,Hotel,6000.0,3000.0
-"New York City, USA",7.0,7.0,Female,American,Hotel,8000.0,2500.0
-"Vancouver, Canada",8.0,6.0,Female,Canadian,Hotel,5000.0,3000.0
-"Barcelona, Spain",9.0,7.0,Female,Spanish,Airbnb,6000.0,2500.0
+Destination,Month,Duration (days),Traveler gender,Traveler nationality,Accommodation type,Accommodation cost,Transportation cost,City,avg_temperature,avg_humidity,top_activities,safety_score
+"London, UK",5.0,7.0,Male,American,Hotel,1200.0,600.0,London,12,75,"museum visits, sightseeing, pub tours",8
+"Phuket, Thailand",6.0,5.0,Female,Canadian,Resort,800.0,500.0,Phuket,29,80,"beach, snorkeling, island tours",7
+"Bali, Indonesia",7.0,7.0,Male,Korean,Villa,1000.0,700.0,Bali,27,85,"surfing, yoga retreats, temple visits",7
+"New York, USA",8.0,14.0,Female,British,Hotel,2000.0,1000.0,New York,15,70,"shopping, Broadway, museums",8
+"Paris, France",10.0,5.0,Male,American,Hotel,1500.0,800.0,Paris,17,65,"art galleries, food tours, sightseeing",9
+"Sydney, Australia",11.0,10.0,Female,Australian,Hostel,500.0,1200.0,Sydney,29,51,"local exploration, cultural visits",7
+"Rio de Janeiro, Brazil",1.0,7.0,Male,Brazilian,Airbnb,900.0,600.0,Rio de Janeiro,22,86,"local exploration, cultural visits",8
+"Dubai, United Arab Emirates",3.0,7.0,Male,Emirati,Resort,2500.0,800.0,Dubai,16,50,"local exploration, cultural visits",6
+"Cancun, Mexico",4.0,7.0,Female,Mexican,Hotel,1000.0,500.0,Cancun,17,83,"local exploration, cultural visits",8
+"Honolulu, Hawaii",6.0,8.0,Female,Chinese,Resort,3000.0,1200.0,Honolulu,10,78,"local exploration, cultural visits",6
+"Berlin, Germany",7.0,9.0,Male,German,Hotel,1400.0,700.0,Berlin,20,59,"local exploration, cultural visits",9
+"Marrakech, Morocco",8.0,7.0,Female,Moroccan,Riad,600.0,400.0,Marrakech,18,56,"local exploration, cultural visits",8
+Paris,9.0,9.0,Female,American,Hotel,900.0,400.0,Paris,17,65,"art galleries, food tours, sightseeing",9
+Bali,8.0,10.0,Male,Chinese,Resort,1500.0,700.0,Bali,27,85,"surfing, yoga retreats, temple visits",7
+Tokyo,10.0,10.0,Male,Japanese,Hotel,1200.0,800.0,Tokyo,15,51,"local exploration, cultural visits",9
+Sydney,12.0,7.0,Male,Australian,Hotel,1000.0,600.0,Sydney,27,55,"local exploration, cultural visits",7
+Bangkok,9.0,8.0,Male,Indian,Hostel,400.0,500.0,Bangkok,21,51,"local exploration, cultural visits",6
+Hawaii,8.0,9.0,Male,Korean,Resort,2000.0,800.0,Hawaii,14,54,"local exploration, cultural visits",7
+Japan,5.0,8.0,Female,American,Hotel,800.0,500.0,Japan,20,73,"local exploration, cultural visits",6
+Greece,10.0,8.0,Male,American,Airbnb,400.0,600.0,Greece,11,52,"local exploration, cultural visits",7
+Mexico,1.0,10.0,Male,British,Airbnb,500.0,800.0,Mexico,30,74,"local exploration, cultural visits",9
+"Paris, France",6.0,7.0,Female,American,Hotel,1400.0,600.0,Paris,17,65,"art galleries, food tours, sightseeing",9
+"Tokyo, Japan",12.0,8.0,Female,Chinese,Hostel,500.0,900.0,Tokyo,24,64,"local exploration, cultural visits",7
+"Cancun, Mexico",7.0,7.0,Male,American,Resort,2200.0,800.0,Cancun,20,69,"local exploration, cultural visits",8
+"Rio de Janeiro, Brazil",11.0,7.0,Female,Brazilian,Hotel,1200.0,700.0,Rio de Janeiro,17,68,"local exploration, cultural visits",6
+"Barcelona, Spain",8.0,7.0,Female,Spanish,Hostel,600.0,600.0,Barcelona,17,63,"local exploration, cultural visits",6
+"New York City, USA",9.0,7.0,Male,American,Hotel,1500.0,500.0,New York City,17,62,"local exploration, cultural visits",9
+"Amsterdam, Netherlands",6.0,8.0,Female,Dutch,Hotel,1100.0,700.0,Amsterdam,19,59,"local exploration, cultural visits",8
+"New York, USA",12.0,7.0,Female,Canadian,Hotel,1400.0,800.0,New York,15,70,"shopping, Broadway, museums",8
+Paris,7.0,6.0,Female,American,Hotel,1200.0,800.0,Paris,17,65,"art galleries, food tours, sightseeing",9
+Sydney,6.0,6.0,Male,Australian,Hotel,1500.0,1200.0,Sydney,21,78,"local exploration, cultural visits",8
+Barcelona,8.0,7.0,Female,Spanish,Vacation rental,900.0,700.0,Barcelona,12,90,"local exploration, cultural visits",7
+Bali,2.0,7.0,Male,American,Resort,2200.0,1000.0,Bali,27,85,"surfing, yoga retreats, temple visits",7
+New York,7.0,6.0,Male,American,Vacation rental,1000.0,800.0,New York,15,70,"shopping, Broadway, museums",8
+Bangkok,9.0,8.0,Female,Indian,Hostel,300.0,700.0,Bangkok,29,76,"local exploration, cultural visits",9
+Bali,5.0,8.0,Female,British,Resort,1800.0,1000.0,Bali,27,85,"surfing, yoga retreats, temple visits",7
+"Bali, Indonesia",8.0,7.0,Female,South Korean,Resort,500.0,800.0,Bali,27,85,"surfing, yoga retreats, temple visits",7
+"Cancun, Mexico",4.0,7.0,Female,Mexican,Resort,800.0,500.0,Cancun,25,65,"local exploration, cultural visits",7
+"Paris, France",6.0,7.0,Male,British,Hotel,1200.0,700.0,Paris,17,65,"art galleries, food tours, sightseeing",9
+"Bali, Indonesia",11.0,7.0,Female,Taiwanese,Resort,600.0,700.0,Bali,27,85,"surfing, yoga retreats, temple visits",7
+"Sydney, Aus",2.0,7.0,Male,Australian,Hotel,900.0,600.0,Sydney,12,86,"local exploration, cultural visits",9
+"Bangkok, Thai",5.0,7.0,Female,Korean,Hotel,400.0,400.0,Bangkok,21,62,"local exploration, cultural visits",9
+"New York, USA",8.0,7.0,Male,American,Hotel,1500.0,1000.0,New York,15,70,"shopping, Broadway, museums",8
+"Phuket, Thai",1.0,7.0,Female,British,Resort,700.0,800.0,Phuket,29,80,"beach, snorkeling, island tours",7
+Paris,6.0,6.0,Male,American,Hotel,800.0,500.0,Paris,17,65,"art galleries, food tours, sightseeing",9
+Bali,8.0,11.0,Female,Spanish,Resort,1200.0,700.0,Bali,27,85,"surfing, yoga retreats, temple visits",7
+Sydney,9.0,9.0,Male,Australian,Hotel,900.0,600.0,Sydney,23,62,"local exploration, cultural visits",8
+London,11.0,11.0,Male,British,Hostel,300.0,400.0,London,12,75,"museum visits, sightseeing, pub tours",8
+Dubai,1.0,8.0,Female,Emirati,Hotel,1000.0,800.0,Dubai,18,80,"local exploration, cultural visits",9
+Rome,3.0,11.0,Female,Italian,Hostel,200.0,350.0,Rome,10,81,"local exploration, cultural visits",6
+Paris,6.0,5.0,Male,USA,Hotel,500.0,800.0,Paris,17,65,"art galleries, food tours, sightseeing",9
+Sydney,11.0,9.0,Male,South Korea,Hostel,200.0,1200.0,Sydney,29,51,"local exploration, cultural visits",8
+London,2.0,5.0,Female,UK,Hotel,600.0,700.0,London,12,75,"museum visits, sightseeing, pub tours",8
+Rome,8.0,7.0,Female,Taiwan,Hotel,700.0,900.0,Rome,20,74,"local exploration, cultural visits",7
+Cape Town,1.0,8.0,Female,Spain,Airbnb,500.0,1500.0,Cape Town,30,80,"local exploration, cultural visits",9
+Bali,7.0,6.0,Female,South Korea,Villa,1200.0,1000.0,Bali,27,85,"surfing, yoga retreats, temple visits",7
+Paris,5.0,5.0,Male,USA,Hotel,1000.0,800.0,Paris,17,65,"art galleries, food tours, sightseeing",9
+Bali,8.0,8.0,Female,Taiwan,Resort,1500.0,1200.0,Bali,27,85,"surfing, yoga retreats, temple visits",7
+Sydney,7.0,9.0,Male,Canada,Hostel,300.0,900.0,Sydney,30,83,"local exploration, cultural visits",7
+Phuket,9.0,7.0,Male,Singapore,Villa,2000.0,700.0,Phuket,29,80,"beach, snorkeling, island tours",7
+Phnom Penh,9.0,5.0,Male,Cambodia,Hostel,200.0,500.0,Phnom Penh,16,56,"local exploration, cultural visits",8
+"Tokyo, Japan",2.0,9.0,Female,American,Hotel,1000.0,700.0,Tokyo,11,71,"local exploration, cultural visits",6
+"Sydney, Aus",5.0,11.0,Female,Chinese,Airbnb,800.0,1000.0,Sydney,27,86,"local exploration, cultural visits",7
+"Bali, Indonesia",7.0,10.0,Female,Korean,Hostel,500.0,800.0,Bali,27,85,"surfing, yoga retreats, temple visits",7
+"Cancun, Mexico",8.0,8.0,Male,American,Hotel,1300.0,600.0,Cancun,18,56,"local exploration, cultural visits",9
+"Athens, Greece",9.0,10.0,Female,Korean,Airbnb,700.0,900.0,Athens,16,78,"local exploration, cultural visits",6
+"Tokyo, Japan",10.0,8.0,Male,Korean,Hotel,1200.0,700.0,Tokyo,22,85,"local exploration, cultural visits",8
+"Sydney, Aus",11.0,10.0,Female,Chinese,Airbnb,900.0,1000.0,Sydney,28,57,"local exploration, cultural visits",6
+"Paris, France",12.0,8.0,Male,American,Hostel,400.0,700.0,Paris,17,65,"art galleries, food tours, sightseeing",9
+"Bali, Indonesia",2.0,8.0,Female,Canadian,Hotel,800.0,800.0,Bali,27,85,"surfing, yoga retreats, temple visits",7
+"Paris, France",5.0,6.0,Male,American,Hotel,5000.0,2500.0,Paris,17,65,"art galleries, food tours, sightseeing",9
+"Sydney, Australia",6.0,6.0,Female,Australian,Hotel,6000.0,3000.0,Sydney,25,71,"local exploration, cultural visits",8
+"New York City, USA",7.0,7.0,Female,American,Hotel,8000.0,2500.0,New York City,22,57,"local exploration, cultural visits",6
+"Vancouver, Canada",8.0,6.0,Female,Canadian,Hotel,5000.0,3000.0,Vancouver,30,69,"local exploration, cultural visits",7
+"Barcelona, Spain",9.0,7.0,Female,Spanish,Airbnb,6000.0,2500.0,Barcelona,19,73,"local exploration, cultural visits",6
+"Tokyo, Japan",4.0,7.0,Male,American,Hotel,1400.0,900.0,Tokyo,16,60,"sightseeing, sushi tours, anime shops",9
+"Cusco, Peru",7.0,5.0,Female,Spanish,Hostel,500.0,400.0,Cusco,11,50,"trekking, historical tours, local cuisine",7
+"Cape Town, South Africa",11.0,10.0,Male,German,Resort,1000.0,800.0,Cape Town,20,65,"safaris, wine tours, beaches",6
+"Reykjavik, Iceland",2.0,6.0,Female,Norwegian,Cabin,1300.0,700.0,Reykjavik,-1,80,"northern lights, hot springs, glaciers",9
+"Bangkok, Thailand",9.0,8.0,Male,Australian,Hotel,700.0,500.0,Bangkok,30,85,"temples, street food, markets",7
+"San José, Costa Rica",3.0,6.0,Female,Mexican,Hotel,750.0,400.0,San José,22,70,"coffee tours, national parks, volcano visits",8
+"Panama City, Panama",5.0,7.0,Male,Colombian,Hotel,850.0,450.0,Panama City,28,75,"canal tours, shopping, nightlife",7
+"Antigua, Guatemala",2.0,5.0,Female,Chilean,Hostel,400.0,300.0,Antigua,20,60,"colonial tours, volcano hikes, markets",7
+"Granada, Nicaragua",4.0,6.0,Male,Canadian,Hostel,350.0,250.0,Granada,27,70,"lake tours, architecture, local cuisine",6
+"Belmopan, Belize",6.0,8.0,Female,American,Lodge,600.0,500.0,Belmopan,30,85,"Mayan ruins, rainforest tours, diving",7
+"San Salvador, El Salvador",7.0,7.0,Male,Argentinian,Hotel,700.0,400.0,San Salvador,29,65,"beach trips, markets, cultural tours",6
+"Tegucigalpa, Honduras",1.0,5.0,Female,Brazilian,Hotel,550.0,350.0,Tegucigalpa,24,60,"museums, nature parks, colonial sites",6
+"Managua, Nicaragua",8.0,6.0,Male,Spanish,Hotel,500.0,300.0,Managua,28,75,"volcano visits, lakes, urban tours",6
+"Roatán, Honduras",12.0,7.0,Female,German,Resort,1000.0,600.0,Roatán,31,80,"snorkeling, diving, beach relaxation",8
+"Bocas del Toro, Panama",9.0,6.0,Male,Dutch,Airbnb,700.0,400.0,Bocas del Toro,29,85,"island hopping, surfing, wildlife tours",8
+"Cancún, Mexico",3.0,7.0,Female,Colombian,Resort,1200.0,600.0,Cancún,28,80,"beaches, snorkeling, nightlife",7
+"Mexico City, Mexico",5.0,6.0,Male,Spanish,Hotel,800.0,500.0,Mexico City,20,60,"museums, food tours, historical sites",8
+"Guadalajara, Mexico",10.0,5.0,Female,Argentinian,Hotel,700.0,450.0,Guadalajara,24,55,"tequila tours, mariachi shows, colonial centers",7
+"Los Angeles, USA",6.0,8.0,Male,British,Hotel,1600.0,800.0,Los Angeles,22,50,"Hollywood tours, beaches, theme parks",8
+"Chicago, USA",4.0,6.0,Female,French,Hotel,1400.0,700.0,Chicago,13,65,"architecture tours, museums, jazz clubs",8
+"Austin, USA",3.0,5.0,Male,Canadian,Airbnb,900.0,500.0,Austin,21,60,"live music, BBQ, hiking trails",9
+"Seattle, USA",9.0,7.0,Female,Japanese,Hotel,1300.0,650.0,Seattle,18,70,"coffee culture, tech tours, nature walks",9
+"Toronto, Canada",7.0,6.0,Male,American,Airbnb,1100.0,600.0,Toronto,23,65,"CN Tower, museums, multicultural food",9
+"Vancouver, Canada",8.0,7.0,Female,Korean,Hotel,1200.0,700.0,Vancouver,20,70,"Stanley Park, whale watching, food tours",9
+"Montreal, Canada",10.0,5.0,Male,German,Hotel,950.0,500.0,Montreal,16,60,"old town tours, food, music festivals",8
+"Québec City, Canada",12.0,6.0,Female,Dutch,Hotel,1000.0,550.0,Québec City,-5,80,"Christmas markets, castles, snow activities",9

@@ -19,7 +19,15 @@ st.set_page_config(
 )
 
 # Cargar dataset
-travel_data = pd.read_csv("ProyectoStreamlit/cleaned_travel_dataset.csv")
+# try travel_data = pd.read_csv("cleaned_travel_dataset.csv") if not found then try travel_data = pd.read_csv("ProyectoStreamlit/cleaned_travel_dataset.csv")
+
+travel_data = None
+try:
+    travel_data = pd.read_csv("cleaned_travel_dataset.csv")
+except FileNotFoundError:
+    # Si no se encuentra el archivo en la ruta actual, intenta cargarlo desde la carpeta ProyectoStreamlit
+    # (Asegúrate de que la ruta sea correcta)
+    travel_data = pd.read_csv("ProyectoStreamlit/cleaned_travel_dataset.csv")
 
 # Inicializar sistema
 base_conocimiento = BaseConocimiento(travel_data)
