@@ -1,2 +1,2 @@
-run,cpu_percent,mem_rss_mb,disk_read_bytes,disk_write_bytes,net_sent_bytes,net_recv_bytes
-15.5,124.508,135.34533333333334,51473.066666666666,310203.73333333334,0.0,0.0
+cpu_percent,mem_rss_mb,disk_read_bytes,disk_write_bytes,net_sent_bytes,net_recv_bytes
+124.508,135.34533333333334,51473.066666666666,310203.73333333334,0.0,0.0
